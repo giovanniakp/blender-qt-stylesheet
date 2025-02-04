@@ -1,1 +1,1 @@
-qtpy
+Qt.py

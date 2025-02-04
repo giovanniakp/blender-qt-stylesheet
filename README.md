@@ -3,7 +3,7 @@
 [![latest tag](https://img.shields.io/github/v/tag/hannesdelbeke/blender-qt-stylesheet?label=Github)](https://github.com/hannesdelbeke/blender-qt-stylesheet)
 
 
-A Blender Qt stylesheet for PySide2, PySide6 PyQt5, PyQt6 (using qtpy)  
+A Blender Qt stylesheet for PySide2, PySide6 PyQt5, PyQt6 (using Qt.py)
 
 The top 3 images are this style in PySide6 & PySide2
 | Blender PySide6 | Blender PySide2 |  Blender PySide2 + dark title bar |  

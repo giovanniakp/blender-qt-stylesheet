@@ -1,5 +1,5 @@
 import blender_stylesheet
-from qtpy.QtWidgets import QApplication
+from Qt.QtWidgets import QApplication
 import sys
 import demo_widget
 
